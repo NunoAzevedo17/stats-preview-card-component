@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/NunoAzevedo17/stats-preview-card-component-main)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://nunoazevedo17.github.io/stats-preview-card-component-main/index.html)
 
 ## My process
 
