@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/NunoAzevedo17/stats-preview-card-component-main](https://github.com/NunoAzevedo17/stats-preview-card-component-main)
-- Live Site URL: [https://nunoazevedo17.github.io/stats-preview-card-component-main/index.html](https://nunoazevedo17.github.io/stats-preview-card-component-main/index.html)
+- Live Site URL: [https://nunoazevedo17.github.io/stats-preview-card-component-main/](https://nunoazevedo17.github.io/stats-preview-card-component-main/)
 
 ## My process
 
