@@ -7,22 +7,19 @@ body {
   margin: 0;
   font-size: 15px;
   background-color: hsl(233, 47%, 7%);
-}
-
-section {
+  min-height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
-  min-height: 100vh;
 }
 
-article {
+.card {
   background-color: hsl(244, 38%, 16%);
   width: 100%;
   max-width: 1110px;
   height: 446px;
   border-radius: 10px;
-  display: inherit;
+  display: flex;
   overflow: hidden;
   margin: 23px;
 }
@@ -91,7 +88,7 @@ article {
 }
 
 @media screen and (max-width: 1024px) {
-  article {
+  .card {
     flex-direction: column-reverse;
     min-height: 777px;
     height: unset;
